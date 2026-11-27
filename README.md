@@ -163,5 +163,6 @@ Emoji:
 
 ## Friend Info
 
-
-
+### Scott
+- Name: Scott
+- Student ID: 682115513
