@@ -163,7 +163,5 @@ Emoji:
 
 ## Friend Info
 
-Name: Shin Thant Aung
-Student ID: 682115507
 
 
